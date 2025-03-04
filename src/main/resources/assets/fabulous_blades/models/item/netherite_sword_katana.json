@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "fabulous_blades:item/netherite_sword_katana"
+  }
+}

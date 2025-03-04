@@ -1,0 +1,17 @@
+{
+  "replace": false,
+  "values": [
+    "fabulous_blades:netherite_sword_katana",
+    "fabulous_blades:netherite_sword_longblade",
+    "fabulous_blades:netherite_sword_claymore",
+    "fabulous_blades:diamond_sword_katana",
+    "fabulous_blades:diamond_sword_longblade",
+    "fabulous_blades:diamond_sword_claymore",
+    "fabulous_blades:gold_sword_katana",
+    "fabulous_blades:gold_sword_longblade",
+    "fabulous_blades:gold_sword_claymore",
+    "fabulous_blades:iron_sword_katana",
+    "fabulous_blades:iron_sword_longblade",
+    "fabulous_blades:iron_sword_claymore"
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "fabulous_blades:item/reforge_template_longblade"
+  }
+}

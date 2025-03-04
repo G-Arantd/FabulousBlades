@@ -1,0 +1,18 @@
+{
+    "item_group.fabulous_blades.group": "Fabulous Blades",
+    "item.fabulous_blades.iron_sword_claymore": "铁大剑",
+    "item.fabulous_blades.iron_sword_longblade": "铁长刀",
+    "item.fabulous_blades.iron_sword_katana": "铁武士刀",
+    "item.fabulous_blades.gold_sword_claymore": "金大剑",
+    "item.fabulous_blades.gold_sword_longblade": "金长刀",
+    "item.fabulous_blades.gold_sword_katana": "金武士刀",
+    "item.fabulous_blades.diamond_sword_claymore": "钻石大剑",
+    "item.fabulous_blades.diamond_sword_longblade": "钻石长刀",
+    "item.fabulous_blades.diamond_sword_katana": "钻石武士刀",
+    "item.fabulous_blades.netherite_sword_claymore": "下界合金大剑",
+    "item.fabulous_blades.netherite_sword_longblade": "下界合金长刀",
+    "item.fabulous_blades.netherite_sword_katana": "下界合金武士刀",
+    "item.fabulous_blades.reforge_template_sword_claymore": "大剑重铸模板",
+    "item.fabulous_blades.reforge_template_sword_longblade": "长刀重铸模板",
+    "item.fabulous_blades.reforge_template_sword_katana": "武士刀重铸模板"
+}

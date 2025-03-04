@@ -1,0 +1,14 @@
+{
+  "type": "fabulous_blades:add_item",
+  "conditions": [
+    {
+      "condition": "neoforge:loot_table_id",
+      "loot_table_id": "minecraft:chests/village/village_weaponsmith"
+    }
+  ],
+  "items": [
+    "fabulous_blades:reforge_template_sword_katana",
+    "fabulous_blades:reforge_template_sword_claymore",
+    "fabulous_blades:reforge_template_sword_longblade"
+  ]
+}

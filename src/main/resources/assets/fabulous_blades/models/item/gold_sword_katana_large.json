@@ -1,0 +1,6 @@
+{
+  "parent": "fabulous_blades:item/handheld_large_2x",
+  "textures": {
+    "layer0": "fabulous_blades:item/gold_sword_katana_large"
+  }
+}

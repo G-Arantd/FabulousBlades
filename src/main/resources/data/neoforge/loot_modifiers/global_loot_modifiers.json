@@ -1,0 +1,10 @@
+{
+    "entries": [
+      "fabulous_blades:add_abandoned_mineshaft",
+      "fabulous_blades:add_desert_pyramid",
+      "fabulous_blades:add_jungle_temple",
+      "fabulous_blades:add_simple_dungeon",
+      "fabulous_blades:add_village_weaponsmith"
+    ],
+    "replace": false
+  }
