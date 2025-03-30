@@ -52,8 +52,9 @@ tasks.withType(ProcessResources).configureEach {
         mod_license: mod_license,
         mod_authors: mod_authors,
         mod_description: mod_description,
-        logo_file: logo_file
+        logo_file: logo_file,
         // CONFIGS LIBS
+        attribute_lib_version: attribute_lib_version
     ]
     inputs.properties replaceProperties
 
@@ -65,3 +66,5 @@ tasks.withType(ProcessResources).configureEach {
 tasks.withType(JavaCompile).configureEach {
     options.encoding = 'UTF-8'
 }
+
+apply from: 'sirgrantd.gradle'

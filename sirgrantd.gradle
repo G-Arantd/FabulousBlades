@@ -1,7 +1,20 @@
 repositories {
     maven {
+        name = "Modrinth"
+        url = "https://api.modrinth.com/maven"
+    }
+    maven {
+        name = 'CurseMaven'
+        url "https://cursemaven.com"
     }
 }
 
 dependencies {
+    implementation "curse.maven:apothic-attributes-898963:6302334"
+    compileOnly "curse.maven:apothic-attributes-898963:6302334"
+
+    runtimeOnly "maven.modrinth:better-combat:2.1.3+1.21.1-neoforge"
+    runtimeOnly "curse.maven:cloth-config-348521:5729127"
+    runtimeOnly "curse.maven:playeranimator-658587:6024462"
+    runtimeOnly "curse.maven:placebo-283644:6337156"
 }

@@ -1,5 +1,5 @@
 
-package net.sirgrantd.fabulous_blades.common.items;
+package net.sirgrantd.fabulous_blades.common.items.reforges;
 
 import net.minecraft.world.item.Rarity;
 import net.minecraft.world.item.Item;

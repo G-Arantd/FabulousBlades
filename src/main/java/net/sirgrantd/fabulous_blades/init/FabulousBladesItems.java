@@ -1,23 +1,21 @@
 package net.sirgrantd.fabulous_blades.init;
 
 import net.sirgrantd.fabulous_blades.FabulousBladesMod;
-
-import net.sirgrantd.fabulous_blades.common.items.DiamondSwordClaymoreItem;
-import net.sirgrantd.fabulous_blades.common.items.DiamondSwordLongbladeItem;
-import net.sirgrantd.fabulous_blades.common.items.DiamondSwordKatanaItem;
-import net.sirgrantd.fabulous_blades.common.items.GoldSwordClaymoreItem;
-import net.sirgrantd.fabulous_blades.common.items.GoldSwordLongbladeItem;
-import net.sirgrantd.fabulous_blades.common.items.GoldSwordKatanaItem;
-import net.sirgrantd.fabulous_blades.common.items.IronSwordClaymoreItem;
-import net.sirgrantd.fabulous_blades.common.items.IronSwordLongbladeItem;
-import net.sirgrantd.fabulous_blades.common.items.IronSwordKatanaItem;
-import net.sirgrantd.fabulous_blades.common.items.NetheriteSwordClaymoreItem;
-import net.sirgrantd.fabulous_blades.common.items.NetheriteSwordLongbladeItem;
-import net.sirgrantd.fabulous_blades.common.items.NetheriteSwordKatanaItem;
-import net.sirgrantd.fabulous_blades.common.items.ReforgeTemplateSwordClaymoreItem;
-import net.sirgrantd.fabulous_blades.common.items.ReforgeTemplateSwordLongbladeItem;
-import net.sirgrantd.fabulous_blades.common.items.ReforgeTemplateSwordKatanaItem;
-
+import net.sirgrantd.fabulous_blades.common.items.reforges.ReforgeTemplateSwordClaymoreItem;
+import net.sirgrantd.fabulous_blades.common.items.reforges.ReforgeTemplateSwordKatanaItem;
+import net.sirgrantd.fabulous_blades.common.items.reforges.ReforgeTemplateSwordLongbladeItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.DiamondSwordClaymoreItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.DiamondSwordKatanaItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.DiamondSwordLongbladeItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.GoldSwordClaymoreItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.GoldSwordKatanaItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.GoldSwordLongbladeItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.IronSwordClaymoreItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.IronSwordKatanaItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.IronSwordLongbladeItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.NetheriteSwordClaymoreItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.NetheriteSwordKatanaItem;
+import net.sirgrantd.fabulous_blades.common.items.weapons.NetheriteSwordLongbladeItem;
 import net.neoforged.neoforge.registries.DeferredRegister;
 import net.neoforged.neoforge.registries.DeferredItem;
 
